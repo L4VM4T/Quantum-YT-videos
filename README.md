@@ -3,4 +3,4 @@ Compilation of quantum YT videos/channels.
 
 **Related to quantum hardware:**
 
-+ https://www.youtube.com/watch?v=TFL-N0hRBkI&list=PL_wGNAk5B0pUVk2G7VvjHWA-P_uorDB7X&index=23
++ Superconducting quantum computing: https://www.youtube.com/watch?v=TFL-N0hRBkI&list=PL_wGNAk5B0pUVk2G7VvjHWA-P_uorDB7X&index=23
