@@ -8,3 +8,4 @@ Compilation of quantum YT videos/channels.
   + https://www.youtube.com/watch?v=RNkjgr-0gWc
   + https://www.youtube.com/watch?v=qsizrKrUZDg
   + https://www.youtube.com/watch?v=5ggYJJjlw8o&t=16s
+  + https://www.youtube.com/watch?v=cb_f9KpYipk
